@@ -61,3 +61,36 @@ It follows an end-to-end workflow — from data cleaning to dashboard creation �
 ---
 
 ## 📂 Project Structure
+├── analysis.ipynb
+├── customer_behavior_sql_queries.sql
+├── Customer_Behavior_Dashboard.pbix
+├── dataset.csv
+└── README.md
+
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository: git clone https://github.com/your-username/customer-behavior-analytics-dashboard.git
+
+cd customer-behavior-analytics-dashboard
+
+2. Install dependencies: pip install pandas sqlalchemy psycopg2-binary\
+3. 
+3. Set up PostgreSQL and update the connection string in the notebook.
+
+4. Run `analysis.ipynb` to process and load data.
+
+5. Open the `.pbix` file in Power BI Desktop to view the dashboard.
+
+---
+
+## 💼 Skills Demonstrated
+- Data cleaning and preprocessing  
+- Feature engineering  
+- SQL database integration  
+- Data visualization and dashboard design  
+- Extracting business insights from data  
+
+---
