@@ -1,5 +1,7 @@
 # 📊 Customer Behavior Analytics Dashboard
+## 📊 Dashboard Preview
 
+![Dashboard](dashboard.png)
 ## 🚀 Overview
 This project analyzes customer purchasing behavior using **Python, SQL, and Power BI** to generate meaningful insights and support data-driven decisions.
 
