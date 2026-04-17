@@ -59,14 +59,14 @@ It follows an end-to-end workflow — from data cleaning to dashboard creation �
 - Different age groups show distinct buying patterns  
 
 ---
-
 ## 📂 Project Structure
+
+
 ├── analysis.ipynb
 ├── customer_behavior_sql_queries.sql
 ├── Customer_Behavior_Dashboard.pbix
 ├── dataset.csv
 └── README.md
-
 
 ---
 
